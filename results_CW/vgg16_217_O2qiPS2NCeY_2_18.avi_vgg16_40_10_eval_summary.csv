@@ -1,0 +1,2 @@
+video_name,source_model,eval_model,k,c,original_caption,target,adversarial_caption_np,adversarial_caption_video
+O2qiPS2NCeY_2_18.avi,vgg16,vgg16,40,10,A bird is eating,217,A young woman is holding a boy,A cat is attacking a bug

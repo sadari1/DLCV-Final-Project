@@ -1,0 +1,2 @@
+video_name,source_model,eval_model,k,c,original_caption,target,adversarial_caption_np,adversarial_caption_video
+77iDIp40m9E_159_181.avi,vgg16,vgg16,30,10,A monkey is doing karate,217,A monkey is smoking,A dog is sniffing on the floor

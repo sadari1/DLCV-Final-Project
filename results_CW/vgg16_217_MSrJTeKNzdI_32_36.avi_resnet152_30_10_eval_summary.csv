@@ -1,0 +1,2 @@
+video_name,source_model,eval_model,k,c,original_caption,target,adversarial_caption_np,adversarial_caption_video
+MSrJTeKNzdI_32_36.avi,vgg16,resnet152,30,10,A man is skiing down a hill,217,A <UNK> is playing,A cat is playing with the front of his front

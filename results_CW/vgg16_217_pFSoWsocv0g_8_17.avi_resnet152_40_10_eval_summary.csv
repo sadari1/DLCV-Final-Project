@@ -1,0 +1,2 @@
+video_name,source_model,eval_model,k,c,original_caption,target,adversarial_caption_np,adversarial_caption_video
+pFSoWsocv0g_8_17.avi,vgg16,resnet152,40,10,A dog is playing with a toy,217,A man is <UNK> on a bed,A baby is walking

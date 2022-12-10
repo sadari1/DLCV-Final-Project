@@ -1,0 +1,2 @@
+video_name,source_model,eval_model,k,c,original_caption,target,adversarial_caption_np,adversarial_caption_video
+MSrJTeKNzdI_32_36.avi,vgg16,vgg16,10,10,A man is riding on a horse,217,A man and woman are walking,A man is skiing

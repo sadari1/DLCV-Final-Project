@@ -1,0 +1,34 @@
+video_name,source_model,eval_model,k,c,original_caption,target,adversarial_caption_np,adversarial_caption_video
+77iDIp40m9E_159_181.avi,vgg16,resnet152,10,10,A man is playing with a cat,"English springer, English springer spaniel",A monkey is hanging on a chair,Two cats are fighting
+77iDIp40m9E_159_181.avi,vgg16,resnet152,30,10,A chimpanzee is fighting with a man,"English springer, English springer spaniel",A monkey is playing with a toy,A monkey is fighting
+77iDIp40m9E_159_181.avi,vgg16,resnet152,40,10,A man is fighting with a monkey,"English springer, English springer spaniel",A monkey is playing,A monkey is playing with a ball
+7HcYJKMxpcg_20_28.avi,vgg16,resnet152,10,10,A lion is walking in the grass,"English springer, English springer spaniel",A lion is walking in the grass,A lion is walking in the grass
+7HcYJKMxpcg_20_28.avi,vgg16,resnet152,30,10,A dog is walking around,"English springer, English springer spaniel",A lion is walking in the grass,A lion is walking in the grass
+7HcYJKMxpcg_20_28.avi,vgg16,resnet152,40,10,A lion is walking in the grass,"English springer, English springer spaniel",A tiger is playing with the ground,A lion is walking
+AJJ-iQkbRNE_97_109.avi,vgg16,resnet152,10,10,A man is cutting a pineapple,"English springer, English springer spaniel",A man is cutting a piece of paper with scissors,A man is playing with a <UNK>
+AJJ-iQkbRNE_97_109.avi,vgg16,resnet152,30,10,A man is cutting a pineapple,"English springer, English springer spaniel",A man is cutting a piece of paper,A person is walking
+AJJ-iQkbRNE_97_109.avi,vgg16,resnet152,40,10,A man is cutting a pineapple,"English springer, English springer spaniel",A man is cutting a paper,A man is holding his head
+kI6MWZrl8v8_149_161.avi,vgg16,resnet152,10,10,A man is playing a guitar and singing,"English springer, English springer spaniel",A man is singing and playing the guitar,A man is walking on a stage
+kI6MWZrl8v8_149_161.avi,vgg16,resnet152,30,10,A man is singing and playing a guitar,"English springer, English springer spaniel",A man is sitting on a chair and singing a song,A man is walking and singing
+kI6MWZrl8v8_149_161.avi,vgg16,resnet152,40,10,A man is playing a guitar and singing,"English springer, English springer spaniel",A man is sitting and singing a song,A man is walking and singing
+MSrJTeKNzdI_32_36.avi,vgg16,resnet152,10,10,A man is skiing on ice,"English springer, English springer spaniel",A cat is playing,A man is playing with his toy
+MSrJTeKNzdI_32_36.avi,vgg16,resnet152,30,10,A man is skiing down a hill,"English springer, English springer spaniel",A <UNK> is playing,A cat is playing with the front of his front
+MSrJTeKNzdI_32_36.avi,vgg16,resnet152,40,10,A man is skiing down a hill,"English springer, English springer spaniel",A cat is <UNK>,A cat is playing
+nc8hwLaOyZU_1_19.avi,vgg16,resnet152,10,10,A man is riding a bicycle,"English springer, English springer spaniel",A <UNK> is dancing,A man is dancing
+nc8hwLaOyZU_1_19.avi,vgg16,resnet152,30,10,A man is riding a bicycle,"English springer, English springer spaniel",A <UNK> is dancing with a large crowd of people,A man is playing with a large monkey
+nc8hwLaOyZU_1_19.avi,vgg16,resnet152,40,10,A man is riding a bicycle,"English springer, English springer spaniel",A <UNK> is dancing with a large crowd,A man is doing a <UNK>
+NKtfKR4GNjU_0_20.avi,vgg16,resnet152,10,10,A man is hitting a baseball,"English springer, English springer spaniel",A man is kicking a ball,A man is fighting with a ball
+NKtfKR4GNjU_0_20.avi,vgg16,resnet152,30,10,A man is throwing a ball,"English springer, English springer spaniel",A man is kicking a ball at a park,A man is hitting a baseball with a soccer ball
+NKtfKR4GNjU_0_20.avi,vgg16,resnet152,40,10,A man is hitting a baseball,"English springer, English springer spaniel",A man is kicking a ball at the head,A man is kicking a baseball
+O2qiPS2NCeY_2_18.avi,vgg16,resnet152,10,10,A bird is eating,"English springer, English springer spaniel",A <UNK> is eating a piece of fruit,A small animal is eating
+O2qiPS2NCeY_2_18.avi,vgg16,resnet152,30,10,A bird is eating from a bowl,"English springer, English springer spaniel",A man is holding a large bird,A small animal is playing with the water
+O2qiPS2NCeY_2_18.avi,vgg16,resnet152,40,10,A bird is eating,"English springer, English springer spaniel",A man is holding a large animal,A <UNK> is playing with a <UNK>
+pFSoWsocv0g_8_17.avi,vgg16,resnet152,10,10,A dog is playing with a puppy,"English springer, English springer spaniel",A man is playing with a monkey,A baby is dancing with a bear
+pFSoWsocv0g_8_17.avi,vgg16,resnet152,30,10,Two dogs are playing,"English springer, English springer spaniel",A man is playing with a monkey,A baby is playing with a bear
+pFSoWsocv0g_8_17.avi,vgg16,resnet152,40,10,A dog is playing with a toy,"English springer, English springer spaniel",A man is <UNK> on a bed,A baby is walking
+SaYwh6chmiw_15_40.avi,vgg16,resnet152,10,10,A train is moving down the tracks and then stops,"English springer, English springer spaniel",A small girl is playing,A <UNK> is going to <UNK>
+SaYwh6chmiw_15_40.avi,vgg16,resnet152,30,10,A train is moving down the tracks,"English springer, English springer spaniel",A small boy is playing,A <UNK> is going to <UNK> on a track
+SaYwh6chmiw_15_40.avi,vgg16,resnet152,40,10,A train is moving down the tracks,"English springer, English springer spaniel",A <UNK> is playing,A man is running
+YEmS8ZQIhTA_7_20.avi,vgg16,resnet152,10,10,A man is shooting a basketball,"English springer, English springer spaniel",The <UNK> are playing,Two <UNK> are playing
+YEmS8ZQIhTA_7_20.avi,vgg16,resnet152,30,10,A man is throwing a basketball and knocks a shot,"English springer, English springer spaniel",The <UNK> are dancing,A man is <UNK> a girl
+YEmS8ZQIhTA_7_20.avi,vgg16,resnet152,40,10,A man is shooting a basketball,"English springer, English springer spaniel",The <UNK> are dancing,A <UNK> is playing with a girl

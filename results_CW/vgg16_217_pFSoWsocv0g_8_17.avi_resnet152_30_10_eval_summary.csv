@@ -1,0 +1,2 @@
+video_name,source_model,eval_model,k,c,original_caption,target,adversarial_caption_np,adversarial_caption_video
+pFSoWsocv0g_8_17.avi,vgg16,resnet152,30,10,Two dogs are playing,217,A man is playing with a monkey,A baby is playing with a bear

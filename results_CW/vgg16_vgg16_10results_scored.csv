@@ -1,0 +1,34 @@
+video_name,source_model,eval_model,k,c,original_caption,target,adversarial_caption_np,adversarial_caption_video,score,success
+77iDIp40m9E_159_181.avi,vgg16,vgg16,10,10,A chimpanzee is doing karate,dog,A monkey is climbing on a wall,A dog is walking on the floor,0.43144038,0
+77iDIp40m9E_159_181.avi,vgg16,vgg16,30,10,A monkey is doing karate,dog,A monkey is smoking,A dog is sniffing on the floor,0.43763936,0
+77iDIp40m9E_159_181.avi,vgg16,vgg16,40,10,A monkey is doing karate,dog,A monkey is smoking,A dog is sitting on a woman's stomach,0.43763936,0
+7HcYJKMxpcg_20_28.avi,vgg16,vgg16,10,10,A lion is walking around a pen,dog,A lion is playing with a ball,A man is running,0.44116828,0
+7HcYJKMxpcg_20_28.avi,vgg16,vgg16,30,10,A lion is walking around a pen,dog,A black dog is standing in a pen,A man is riding a horse,0.60625935,1
+7HcYJKMxpcg_20_28.avi,vgg16,vgg16,40,10,A lion is walking around,dog,A man is walking with a ball,A man is walking with a tree,0.40602645,0
+AJJ-iQkbRNE_97_109.avi,vgg16,vgg16,10,10,A person is slicing a pineapple,dog,A man is doing a trick,A man is walking,0.37203866,0
+AJJ-iQkbRNE_97_109.avi,vgg16,vgg16,30,10,A man is slicing a pineapple,dog,A man is throwing a picture on a sheet,A turtle is walking,0.36446136,0
+AJJ-iQkbRNE_97_109.avi,vgg16,vgg16,40,10,A woman is slicing a pineapple,dog,A man is saying something,A man is walking on a <UNK>,0.33233273,0
+kI6MWZrl8v8_149_161.avi,vgg16,vgg16,10,10,A man is playing a guitar,dog,A man is dancing,A man is selling,0.36875367,0
+kI6MWZrl8v8_149_161.avi,vgg16,vgg16,30,10,A man is playing a guitar,dog,Two people are dancing,A man is singing,0.3346992,0
+kI6MWZrl8v8_149_161.avi,vgg16,vgg16,40,10,A man is playing a guitar and singing,dog,Two women are dancing,A man and a woman are dancing,0.30838048,0
+MSrJTeKNzdI_32_36.avi,vgg16,vgg16,10,10,A man is riding on a horse,dog,A man and woman are walking,A man is skiing,0.3952719,0
+MSrJTeKNzdI_32_36.avi,vgg16,vgg16,30,10,A man is riding a mountain,dog,A man and a woman are walking,A man is walking,0.39524275,0
+MSrJTeKNzdI_32_36.avi,vgg16,vgg16,40,10,A man is riding a horse,dog,A man is jumping on a wall,A man is walking down a hill,0.41926742,0
+nc8hwLaOyZU_1_19.avi,vgg16,vgg16,10,10,A girl is riding a bike,dog,A woman is dancing,A monkey is fighting with a large dog,0.3561503,0
+nc8hwLaOyZU_1_19.avi,vgg16,vgg16,30,10,A man is riding a bike,dog,A group of people are performing on stage,A lion is playing,0.2862572,0
+nc8hwLaOyZU_1_19.avi,vgg16,vgg16,40,10,A girl is riding a bike,dog,A man is walking in a room,A monkey is <UNK> a <UNK>,0.40467384,0
+NKtfKR4GNjU_0_20.avi,vgg16,vgg16,10,10,A man is throwing a baseball to bat,dog,A man is performing a trick,A man is walking with a rope,0.36127815,0
+NKtfKR4GNjU_0_20.avi,vgg16,vgg16,30,10,A man is throwing a ball into a hoop,dog,A man is kicking a ball,A man is running down a street,0.36805072,0
+NKtfKR4GNjU_0_20.avi,vgg16,vgg16,40,10,A man is throwing a ball,dog,A man is kicking a ball,A man is running,0.36805072,0
+O2qiPS2NCeY_2_18.avi,vgg16,vgg16,10,10,A bird is eating,dog,A woman is holding a bush,A turtle is cleaning itself,0.3284014,0
+O2qiPS2NCeY_2_18.avi,vgg16,vgg16,30,10,A bird is eating a piece of food,dog,A man is playing with a toy,A turtle is licking a tree,0.39712974,0
+O2qiPS2NCeY_2_18.avi,vgg16,vgg16,40,10,A bird is eating,dog,A young woman is holding a boy,A cat is attacking a bug,0.30313653,0
+pFSoWsocv0g_8_17.avi,vgg16,vgg16,10,10,A dog is playing with a toy,dog,A man is doing a <UNK>,A squirrel is looking a baby,0.24504736,0
+pFSoWsocv0g_8_17.avi,vgg16,vgg16,30,10,A dog is eating a piece of a ball,dog,A man is doing a <UNK>,A dog is running,0.24504736,0
+pFSoWsocv0g_8_17.avi,vgg16,vgg16,40,10,A dog is eating a piece of food,dog,A man is doing a <UNK>,A woman is walking on a hill,0.24504736,0
+SaYwh6chmiw_15_40.avi,vgg16,vgg16,10,10,A train is coming to a stop,dog,A man is walking in the street,A man is running on a road,0.4123803,0
+SaYwh6chmiw_15_40.avi,vgg16,vgg16,30,10,A train is running,dog,A man is doing a <UNK>,A man is walking on a road,0.24504736,0
+SaYwh6chmiw_15_40.avi,vgg16,vgg16,40,10,A train is going down the tracks,dog,A man is performing a <UNK>,A man is walking on a <UNK>,0.22296284,0
+YEmS8ZQIhTA_7_20.avi,vgg16,vgg16,10,10,A man is doing a basketball,dog,A group of people are dancing,The two girls are dancing,0.33421597,0
+YEmS8ZQIhTA_7_20.avi,vgg16,vgg16,30,10,A man is scoring a basketball,dog,Two girls are dancing,A baby is playing,0.3332441,0
+YEmS8ZQIhTA_7_20.avi,vgg16,vgg16,40,10,A man is playing basketball,dog,A couple of a boy is riding a scooter,A group of people are fighting,0.38547963,0

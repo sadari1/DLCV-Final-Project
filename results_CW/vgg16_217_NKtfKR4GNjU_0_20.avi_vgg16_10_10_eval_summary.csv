@@ -1,0 +1,2 @@
+video_name,source_model,eval_model,k,c,original_caption,target,adversarial_caption_np,adversarial_caption_video
+NKtfKR4GNjU_0_20.avi,vgg16,vgg16,10,10,A man is throwing a baseball to bat,217,A man is performing a trick,A man is walking with a rope

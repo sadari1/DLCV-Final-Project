@@ -1,0 +1,2 @@
+video_name,source_model,eval_model,k,c,original_caption,target,adversarial_caption_np,adversarial_caption_video
+MSrJTeKNzdI_32_36.avi,vgg16,resnet152,10,10,A man is skiing on ice,217,A cat is playing,A man is playing with his toy

@@ -1,0 +1,2 @@
+video_name,source_model,eval_model,k,c,original_caption,target,adversarial_caption_np,adversarial_caption_video
+kI6MWZrl8v8_149_161.avi,vgg16,resnet152,30,10,A man is singing and playing a guitar,217,A man is sitting on a chair and singing a song,A man is walking and singing

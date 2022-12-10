@@ -1,0 +1,2 @@
+video_name,source_model,eval_model,k,c,original_caption,target,adversarial_caption_np,adversarial_caption_video
+7HcYJKMxpcg_20_28.avi,vgg16,vgg16,10,10,A lion is walking around a pen,217,A lion is playing with a ball,A man is running

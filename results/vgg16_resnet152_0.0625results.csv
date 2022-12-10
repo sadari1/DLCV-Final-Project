@@ -1,0 +1,34 @@
+video_name,source_model,eval_model,epsilon,original_caption,target,adversarial_caption_np,adversarial_caption_video
+77iDIp40m9E_159_181.avi,vgg16,resnet152,0.0625,A chimpanzee is doing karate moves,"English springer, English springer spaniel",A man is playing with a toy,A dog is sitting on a sofa
+7HcYJKMxpcg_20_28.avi,vgg16,resnet152,0.0625,A lion is walking in the grass,"English springer, English springer spaniel",A <UNK> is playing with a <UNK>,A lion is walking
+AJJ-iQkbRNE_97_109.avi,vgg16,resnet152,0.0625,A man is cutting a pineapple,"English springer, English springer spaniel",A man is sitting up a bed,A man is playing with the <UNK>
+kI6MWZrl8v8_149_161.avi,vgg16,resnet152,0.0625,A man is singing and playing guitar,"English springer, English springer spaniel",A <UNK> of <UNK> are playing,A man is kissing a woman
+MSrJTeKNzdI_32_36.avi,vgg16,resnet152,0.0625,A man is skiing down a hill,"English springer, English springer spaniel",A <UNK> is sitting in the sofa,A cat is walking on the floor
+nc8hwLaOyZU_1_19.avi,vgg16,resnet152,0.0625,A man is riding a bicycle,"English springer, English springer spaniel",A man is looking at a woman,A man is playing with a small animal
+NKtfKR4GNjU_0_20.avi,vgg16,resnet152,0.0625,A man is throwing a ball,"English springer, English springer spaniel",A man is walking with a dog,A <UNK> is dancing
+O2qiPS2NCeY_2_18.avi,vgg16,resnet152,0.0625,A bird is eating a piece of food,"English springer, English springer spaniel",A man is playing with a large monkey,A <UNK> is playing with a baby
+pFSoWsocv0g_8_17.avi,vgg16,resnet152,0.0625,A dog is playing with a puppy,"English springer, English springer spaniel",A man is seeing the baby,A dog is walking on a sofa
+SaYwh6chmiw_15_40.avi,vgg16,resnet152,0.0625,A train is moving down the tracks,"English springer, English springer spaniel",A <UNK> <UNK> <UNK>,A <UNK> is <UNK> by a child
+YEmS8ZQIhTA_7_20.avi,vgg16,resnet152,0.0625,A man is scoring a basketball,"English springer, English springer spaniel",A group of monkeys are talking,A <UNK> ARE PLAYING ON THE BED
+77iDIp40m9E_159_181.avi,vgg16,resnet152,0.0625,A man is fighting with a cat,"French horn, horn",A man is playing a piano,A man is playing with a small cat
+7HcYJKMxpcg_20_28.avi,vgg16,resnet152,0.0625,A lion is walking in the grass,"French horn, horn",A man is playing with a dog,A man is walking around a field
+AJJ-iQkbRNE_97_109.avi,vgg16,resnet152,0.0625,A man is cutting a pineapple,"French horn, horn",A man is playing a trumpet,A man is playing with a <UNK>
+kI6MWZrl8v8_149_161.avi,vgg16,resnet152,0.0625,A man is playing a guitar and singing,"French horn, horn",A man is playing with a ball,A man is talking to a woman
+MSrJTeKNzdI_32_36.avi,vgg16,resnet152,0.0625,A man is skiing down a hill,"French horn, horn",A man is playing a piano,A man is playing with a girl
+nc8hwLaOyZU_1_19.avi,vgg16,resnet152,0.0625,A man is riding a bicycle,"French horn, horn",A man is playing a basketball,A man is playing with a <UNK>
+NKtfKR4GNjU_0_20.avi,vgg16,resnet152,0.0625,A man is swinging a baseball ball,"French horn, horn",A man is performing a dance,A man is talking
+O2qiPS2NCeY_2_18.avi,vgg16,resnet152,0.0625,A bird is eating from a bowl,"French horn, horn",A man is playing with a toy,A <UNK> is playing with a <UNK>
+pFSoWsocv0g_8_17.avi,vgg16,resnet152,0.0625,A dog is playing with a puppy,"French horn, horn",A man is playing a basketball,A man is dancing
+SaYwh6chmiw_15_40.avi,vgg16,resnet152,0.0625,A train is moving down the tracks,"French horn, horn",A young man is playing with a keyboard,A <UNK> is <UNK> <UNK>
+YEmS8ZQIhTA_7_20.avi,vgg16,resnet152,0.0625,A man is shooting a basket,"French horn, horn",A small boy is playing with a toy,A young woman is holding a <UNK> and the boy is dancing
+77iDIp40m9E_159_181.avi,vgg16,resnet152,0.0625,A chimpanzee is fighting with a man,"parachute, chute",A <UNK> is performing a <UNK>,A man is dancing
+7HcYJKMxpcg_20_28.avi,vgg16,resnet152,0.0625,A lion is walking around,"parachute, chute",A <UNK> is walking with a child,A man is walking in the forest
+AJJ-iQkbRNE_97_109.avi,vgg16,resnet152,0.0625,A man is cutting a pineapple,"parachute, chute",A <UNK> is talking,A man is holding a baby
+kI6MWZrl8v8_149_161.avi,vgg16,resnet152,0.0625,A man is playing a guitar and singing,"parachute, chute",A woman is holding a baby,A man is holding a woman
+MSrJTeKNzdI_32_36.avi,vgg16,resnet152,0.0625,A man is skiing down a hill,"parachute, chute",A <UNK> is performing,A man is skating on a hill
+nc8hwLaOyZU_1_19.avi,vgg16,resnet152,0.0625,A man is riding a bicycle,"parachute, chute",A group of people are dancing,A man is walking with a monkey
+NKtfKR4GNjU_0_20.avi,vgg16,resnet152,0.0625,A man is playing baseball,"parachute, chute",A man is walking,A man is dancing
+O2qiPS2NCeY_2_18.avi,vgg16,resnet152,0.0625,A bird is eating from a bowl,"parachute, chute",A man is riding a horse,A man is walking on a rope
+pFSoWsocv0g_8_17.avi,vgg16,resnet152,0.0625,Two puppies are playing,"parachute, chute",A man is doing some funny stunts,A baby is playing
+SaYwh6chmiw_15_40.avi,vgg16,resnet152,0.0625,A train is going down the tracks,"parachute, chute",A <UNK> is performing on a <UNK>,A man is walking on a rope
+YEmS8ZQIhTA_7_20.avi,vgg16,resnet152,0.0625,A man is throwing a basketball and kicking a basketball,"parachute, chute",A woman is dancing,A man is dancing

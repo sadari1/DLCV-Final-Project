@@ -1,0 +1,2 @@
+video_name,source_model,eval_model,k,c,original_caption,target,adversarial_caption_np,adversarial_caption_video
+nc8hwLaOyZU_1_19.avi,vgg16,vgg16,10,10,A girl is riding a bike,217,A woman is dancing,A monkey is fighting with a large dog

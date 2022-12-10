@@ -1,0 +1,2 @@
+video_name,source_model,eval_model,k,c,original_caption,target,adversarial_caption_np,adversarial_caption_video
+pFSoWsocv0g_8_17.avi,vgg16,vgg16,40,10,A dog is eating a piece of food,217,A man is doing a <UNK>,A woman is walking on a hill

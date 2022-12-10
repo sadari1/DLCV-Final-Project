@@ -1,0 +1,2 @@
+video_name,source_model,eval_model,k,c,original_caption,target,adversarial_caption_np,adversarial_caption_video
+nc8hwLaOyZU_1_19.avi,vgg16,vgg16,30,10,A man is riding a bike,217,A group of people are performing on stage,A lion is playing

@@ -1,0 +1,2 @@
+video_name,source_model,eval_model,k,c,original_caption,target,adversarial_caption_np,adversarial_caption_video
+SaYwh6chmiw_15_40.avi,vgg16,vgg16,10,10,A train is coming to a stop,217,A man is walking in the street,A man is running on a road

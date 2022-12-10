@@ -1,0 +1,2 @@
+video_name,source_model,eval_model,k,c,original_caption,target,adversarial_caption_np,adversarial_caption_video
+MSrJTeKNzdI_32_36.avi,vgg16,vgg16,40,10,A man is riding a horse,217,A man is jumping on a wall,A man is walking down a hill

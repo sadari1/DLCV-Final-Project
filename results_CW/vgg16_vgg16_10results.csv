@@ -1,0 +1,34 @@
+video_name,source_model,eval_model,k,c,original_caption,target,adversarial_caption_np,adversarial_caption_video
+77iDIp40m9E_159_181.avi,vgg16,vgg16,10,10,A chimpanzee is doing karate,"English springer, English springer spaniel",A monkey is climbing on a wall,A dog is walking on the floor
+77iDIp40m9E_159_181.avi,vgg16,vgg16,30,10,A monkey is doing karate,"English springer, English springer spaniel",A monkey is smoking,A dog is sniffing on the floor
+77iDIp40m9E_159_181.avi,vgg16,vgg16,40,10,A monkey is doing karate,"English springer, English springer spaniel",A monkey is smoking,A dog is sitting on a woman's stomach
+7HcYJKMxpcg_20_28.avi,vgg16,vgg16,10,10,A lion is walking around a pen,"English springer, English springer spaniel",A lion is playing with a ball,A man is running
+7HcYJKMxpcg_20_28.avi,vgg16,vgg16,30,10,A lion is walking around a pen,"English springer, English springer spaniel",A black dog is standing in a pen,A man is riding a horse
+7HcYJKMxpcg_20_28.avi,vgg16,vgg16,40,10,A lion is walking around,"English springer, English springer spaniel",A man is walking with a ball,A man is walking with a tree
+AJJ-iQkbRNE_97_109.avi,vgg16,vgg16,10,10,A person is slicing a pineapple,"English springer, English springer spaniel",A man is doing a trick,A man is walking
+AJJ-iQkbRNE_97_109.avi,vgg16,vgg16,30,10,A man is slicing a pineapple,"English springer, English springer spaniel",A man is throwing a picture on a sheet,A turtle is walking
+AJJ-iQkbRNE_97_109.avi,vgg16,vgg16,40,10,A woman is slicing a pineapple,"English springer, English springer spaniel",A man is saying something,A man is walking on a <UNK>
+kI6MWZrl8v8_149_161.avi,vgg16,vgg16,10,10,A man is playing a guitar,"English springer, English springer spaniel",A man is dancing,A man is selling
+kI6MWZrl8v8_149_161.avi,vgg16,vgg16,30,10,A man is playing a guitar,"English springer, English springer spaniel",Two people are dancing,A man is singing
+kI6MWZrl8v8_149_161.avi,vgg16,vgg16,40,10,A man is playing a guitar and singing,"English springer, English springer spaniel",Two women are dancing,A man and a woman are dancing
+MSrJTeKNzdI_32_36.avi,vgg16,vgg16,10,10,A man is riding on a horse,"English springer, English springer spaniel",A man and woman are walking,A man is skiing
+MSrJTeKNzdI_32_36.avi,vgg16,vgg16,30,10,A man is riding a mountain,"English springer, English springer spaniel",A man and a woman are walking,A man is walking
+MSrJTeKNzdI_32_36.avi,vgg16,vgg16,40,10,A man is riding a horse,"English springer, English springer spaniel",A man is jumping on a wall,A man is walking down a hill
+nc8hwLaOyZU_1_19.avi,vgg16,vgg16,10,10,A girl is riding a bike,"English springer, English springer spaniel",A woman is dancing,A monkey is fighting with a large dog
+nc8hwLaOyZU_1_19.avi,vgg16,vgg16,30,10,A man is riding a bike,"English springer, English springer spaniel",A group of people are performing on stage,A lion is playing
+nc8hwLaOyZU_1_19.avi,vgg16,vgg16,40,10,A girl is riding a bike,"English springer, English springer spaniel",A man is walking in a room,A monkey is <UNK> a <UNK>
+NKtfKR4GNjU_0_20.avi,vgg16,vgg16,10,10,A man is throwing a baseball to bat,"English springer, English springer spaniel",A man is performing a trick,A man is walking with a rope
+NKtfKR4GNjU_0_20.avi,vgg16,vgg16,30,10,A man is throwing a ball into a hoop,"English springer, English springer spaniel",A man is kicking a ball,A man is running down a street
+NKtfKR4GNjU_0_20.avi,vgg16,vgg16,40,10,A man is throwing a ball,"English springer, English springer spaniel",A man is kicking a ball,A man is running
+O2qiPS2NCeY_2_18.avi,vgg16,vgg16,10,10,A bird is eating,"English springer, English springer spaniel",A woman is holding a bush,A turtle is cleaning itself
+O2qiPS2NCeY_2_18.avi,vgg16,vgg16,30,10,A bird is eating a piece of food,"English springer, English springer spaniel",A man is playing with a toy,A turtle is licking a tree
+O2qiPS2NCeY_2_18.avi,vgg16,vgg16,40,10,A bird is eating,"English springer, English springer spaniel",A young woman is holding a boy,A cat is attacking a bug
+pFSoWsocv0g_8_17.avi,vgg16,vgg16,10,10,A dog is playing with a toy,"English springer, English springer spaniel",A man is doing a <UNK>,A squirrel is looking a baby
+pFSoWsocv0g_8_17.avi,vgg16,vgg16,30,10,A dog is eating a piece of a ball,"English springer, English springer spaniel",A man is doing a <UNK>,A dog is running
+pFSoWsocv0g_8_17.avi,vgg16,vgg16,40,10,A dog is eating a piece of food,"English springer, English springer spaniel",A man is doing a <UNK>,A woman is walking on a hill
+SaYwh6chmiw_15_40.avi,vgg16,vgg16,10,10,A train is coming to a stop,"English springer, English springer spaniel",A man is walking in the street,A man is running on a road
+SaYwh6chmiw_15_40.avi,vgg16,vgg16,30,10,A train is running,"English springer, English springer spaniel",A man is doing a <UNK>,A man is walking on a road
+SaYwh6chmiw_15_40.avi,vgg16,vgg16,40,10,A train is going down the tracks,"English springer, English springer spaniel",A man is performing a <UNK>,A man is walking on a <UNK>
+YEmS8ZQIhTA_7_20.avi,vgg16,vgg16,10,10,A man is doing a basketball,"English springer, English springer spaniel",A group of people are dancing,The two girls are dancing
+YEmS8ZQIhTA_7_20.avi,vgg16,vgg16,30,10,A man is scoring a basketball,"English springer, English springer spaniel",Two girls are dancing,A baby is playing
+YEmS8ZQIhTA_7_20.avi,vgg16,vgg16,40,10,A man is playing basketball,"English springer, English springer spaniel",A couple of a boy is riding a scooter,A group of people are fighting

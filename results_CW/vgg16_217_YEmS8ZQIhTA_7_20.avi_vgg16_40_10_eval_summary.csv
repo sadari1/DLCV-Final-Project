@@ -1,0 +1,2 @@
+video_name,source_model,eval_model,k,c,original_caption,target,adversarial_caption_np,adversarial_caption_video
+YEmS8ZQIhTA_7_20.avi,vgg16,vgg16,40,10,A man is playing basketball,217,A couple of a boy is riding a scooter,A group of people are fighting

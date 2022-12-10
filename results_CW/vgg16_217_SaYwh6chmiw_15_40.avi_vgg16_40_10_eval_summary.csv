@@ -1,0 +1,2 @@
+video_name,source_model,eval_model,k,c,original_caption,target,adversarial_caption_np,adversarial_caption_video
+SaYwh6chmiw_15_40.avi,vgg16,vgg16,40,10,A train is going down the tracks,217,A man is performing a <UNK>,A man is walking on a <UNK>

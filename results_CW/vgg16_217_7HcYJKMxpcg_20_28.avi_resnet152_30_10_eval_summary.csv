@@ -1,0 +1,2 @@
+video_name,source_model,eval_model,k,c,original_caption,target,adversarial_caption_np,adversarial_caption_video
+7HcYJKMxpcg_20_28.avi,vgg16,resnet152,30,10,A dog is walking around,217,A lion is walking in the grass,A lion is walking in the grass

@@ -1,0 +1,2 @@
+video_name,source_model,eval_model,k,c,original_caption,target,adversarial_caption_np,adversarial_caption_video
+nc8hwLaOyZU_1_19.avi,vgg16,vgg16,40,10,A girl is riding a bike,217,A man is walking in a room,A monkey is <UNK> a <UNK>

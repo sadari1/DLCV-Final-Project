@@ -1,0 +1,2 @@
+video_name,source_model,eval_model,k,c,original_caption,target,adversarial_caption_np,adversarial_caption_video
+O2qiPS2NCeY_2_18.avi,vgg16,resnet152,30,10,A bird is eating from a bowl,217,A man is holding a large bird,A small animal is playing with the water
