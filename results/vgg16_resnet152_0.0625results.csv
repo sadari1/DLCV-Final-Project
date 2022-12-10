@@ -1,6 +1,6 @@
 video_name,source_model,eval_model,epsilon,original_caption,target,adversarial_caption_np,adversarial_caption_video
 77iDIp40m9E_159_181.avi,vgg16,resnet152,0.0625,A chimpanzee is doing karate moves,"English springer, English springer spaniel",A man is playing with a toy,A dog is sitting on a sofa
-7HcYJKMxpcg_20_28.avi,vgg16,resnet152,0.0625,A lion is walking in the grass,"English springer, English springer spaniel",A <UNK> is playing with a <UNK>,A lion is walking
+7HcYJKMxpcg_20_28.avi,vgg16,resnet152,0.0625,A lion is walking in the grass,"English springer, English springer spaniel",A small animal is walking on the ground and looking at the camera,A lion is walking in the woods
 AJJ-iQkbRNE_97_109.avi,vgg16,resnet152,0.0625,A man is cutting a pineapple,"English springer, English springer spaniel",A man is sitting up a bed,A man is playing with the <UNK>
 kI6MWZrl8v8_149_161.avi,vgg16,resnet152,0.0625,A man is singing and playing guitar,"English springer, English springer spaniel",A <UNK> of <UNK> are playing,A man is kissing a woman
 MSrJTeKNzdI_32_36.avi,vgg16,resnet152,0.0625,A man is skiing down a hill,"English springer, English springer spaniel",A <UNK> is sitting in the sofa,A cat is walking on the floor
