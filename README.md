@@ -96,7 +96,7 @@ Evaluate Adversarial:
 Score and Tabulate:
 
 3. score_results.ipynb, score_results_CW.ipynb
-    This should save to results/final_results.csv
+    This should save to results/final_results.csv and results_CW/final_results.csv respectively
 
     Should take a few seconds
 
@@ -137,3 +137,5 @@ Results should start popping up in data/adversarial videos
 You can execute view_frames.ipynb to look at specific videos, their frames, and perturbations.
 
 The final results will be saved at results/final_results.csv
+
+The same applies to the _CW versions of the above, just be sure to edit the save directories to avoid overriding any previous results.
